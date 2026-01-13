@@ -9,7 +9,7 @@
  - [X] Transition between pomodoro steps
  - [X] Saved memory of pomodoro times
  - [X] Progress Meter (% and/or total minutes)
-~~ - [ ] Resizable screen (and add this to saved memory config)~~ (excluded currently because of text positioning issues)
+ - ~~[ ] Resizable screen (and add this to saved memory config)~~ (excluded currently because of text positioning issues)
  - [ ] Create small window timer mode
 
 
