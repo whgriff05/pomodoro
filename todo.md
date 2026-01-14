@@ -11,6 +11,8 @@
  - [X] Progress Meter (% and/or total minutes)
  - [ ] ~~Resizable screen (and add this to saved memory config)~~ (excluded currently because of text positioning issues)
  - [ ] Create small window timer mode
+- [ ] Add README.md
+    - [ ] Include note about needing to create own `libraylib.a` file
 
 
  
